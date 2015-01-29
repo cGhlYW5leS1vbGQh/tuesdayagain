@@ -1,4 +1,6 @@
 # tuesdayagain
+![alt tag](http://38.media.tumblr.com/avatar_ca7275c00e2c_128.png)
+
 A simple Chrome extension providing motivation on Tuesdays.  
 Enjoy the simple pleasure of seeing the Tuesday Again No Problem Dog on Tuesdays.  
 On other days? There isn't much.  
